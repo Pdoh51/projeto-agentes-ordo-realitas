@@ -1,0 +1,51 @@
+@media (max-width: 1120px) {
+    .agentes-da-ordem {
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+
+    .agentes-da-ordem .agentes {
+        margin-top: -100px;
+    }
+
+    .agentes-da-ordem .agentes .titulo {
+        font-size: 15px;
+    }
+
+    .agentes-da-ordem .lista-de-agentes {
+        gap: 9px;
+        margin-top: -60px;
+    }
+
+    .agentes-da-ordem .agente img {
+        width: 80px;
+    }
+
+    .personagens{
+        margin-left: 108px;
+    }
+
+    .personagens .nome-personagem{
+        width: 80%;
+        font-size: 19px;
+    }
+
+.personagem .ficha{
+   margin-left: -24%;
+}
+
+.personagens{
+margin-top: 10px;
+}
+
+.personagens .descricao{
+    max-width: 280px;
+    margin-left: -60px;
+}
+
+.lista-de-agentes{
+    margin: 0px;
+}
+
+}
